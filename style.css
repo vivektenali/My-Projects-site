@@ -17,7 +17,7 @@ h1,p{
 .out{
      width: 500px;
     height: 350px;
-    border: 2px solid wheat;
+   
     padding: 40px;
    
 }
@@ -34,7 +34,8 @@ h1,p{
 }
 
 .out:hover{
-   box-shadow: 10px 10px 10px #E21717;    
+   box-shadow: 9px 0px 10px #E21717;    
+  
 }
 
 .container{
